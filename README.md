@@ -1,0 +1,2 @@
+# LaTeX
+Modular LaTeX templates
